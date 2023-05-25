@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'9106c413-7256-4426-997a-4abd9d3b2e78'}
+UUID=${UUID:-'ba3be98f-4ea1-4f37-9798-38cbc693b77b'}
 
 # 其他Paas保活
 PAAS1_URL=https://bloo-fyiurbdsd.b4a.run/
